@@ -1,0 +1,24 @@
+{
+  "name": "mit-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "team.js",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RRBWells/MIT-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RRBWells/MIT-app/issues"
+  },
+  "homepage": "https://github.com/RRBWells/MIT-app#readme"
+}
